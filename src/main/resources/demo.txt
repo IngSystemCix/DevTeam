@@ -7,3 +7,4 @@ Línea 6: También debería contar las palabras en todo el archivo.
 Línea 7: Finalmente, debe calcular la longitud de la línea más larga.
 Línea 8: Prueba final.
 Línea 9: Fin del archivo.
+Lineas: 9
