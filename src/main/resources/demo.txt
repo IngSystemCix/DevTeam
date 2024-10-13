@@ -1,0 +1,9 @@
+Línea 1: Este es un archivo de prueba.
+Línea 2: Contiene varias líneas de texto.
+Línea 3: Cada línea tiene un número y una descripción.
+Línea 4: Este archivo se usará para probar el programa.
+Línea 5: El programa debería leer cada línea correctamente.
+Línea 6: También debería contar las palabras en todo el archivo.
+Línea 7: Finalmente, debe calcular la longitud de la línea más larga.
+Línea 8: Prueba final.
+Línea 9: Fin del archivo.
